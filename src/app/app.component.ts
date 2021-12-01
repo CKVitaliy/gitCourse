@@ -9,4 +9,5 @@ export class AppComponent {
   title1 = 'gitLearning';
   title2 = 'kot';
   title3 = 'kotRaiback';
+  title4 = 'new title';
 }
