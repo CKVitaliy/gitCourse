@@ -7,5 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title1 = 'gitLearning';
-  title2 = 'kot'
+  title2 = 'kot';
+  title3 = 'kotRaiback';
 }
